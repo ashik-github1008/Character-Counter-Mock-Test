@@ -1,0 +1,35 @@
+.app-container {
+  display: flex;
+  flex-direction: row;
+}
+
+.character-count-display-container {
+  display: flex;
+  flex-direction: column;
+  background-color: #ffbf1f;
+  min-width: 50vw;
+  min-height: 70vh;
+}
+
+.no-user-input-img {
+  width: 74px;
+  height: 74px;
+}
+
+.character-count-input-container {
+  display: flex;
+  flex-direction: column;
+  background-color: #0f172a;
+  min-width: 50vw;
+  min-height: 70vh;
+}
+
+.input-container {
+  display: flex;
+  flex-direction: row;
+}
+
+.character-list-container {
+  display: flex;
+  flex-direction: column;
+}
